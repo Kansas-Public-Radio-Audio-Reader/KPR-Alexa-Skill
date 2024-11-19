@@ -1,6 +1,5 @@
 #!/bin/bash
 
-cd /Users/danny/Desktop/work/kprAlexaSkill_code_repository
 rm kprAlexaSkillFunction.zip
 zip -r kprAlexaSkillFunction.zip .
 echo "zipping package complete"
