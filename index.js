@@ -102,6 +102,11 @@ const onDemandObjects = [
       title: 'classics live',
       ssml: 'classics live',
       feed: 'https://api.npr.org/query?orgId=4&dateType=story&output=MediaRSS&fields=image,byline,fullText&action=or&id=1147893214&numResults=25&apiKey=MDAxODM1MzkxMDEyMTY5MDA4NjI2NGQ4Yg004',
+    },
+    {
+      title: '105 live',
+      ssml: 'one oh five live',
+      feed: 'https://kansaspublicradio.org/podcast/105-live/rss.xml',
     }
 ];
 
