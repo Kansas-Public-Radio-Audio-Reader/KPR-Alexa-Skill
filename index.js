@@ -186,6 +186,9 @@ const handlers = {
             'live at green lady':'live at green lady lounge',
             'live at the green lady lounge':'live at green lady lounge',
             'live at the green lady':'live at green lady lounge',
+            'one of five':'105 live',
+            '1 oh 5':'105 live',
+            'one hundred and five live':'105 live',
         };
         if (programTitle in titleReplacements) {
             programTitle = titleReplacements[programTitle];
